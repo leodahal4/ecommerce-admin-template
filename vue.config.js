@@ -13,4 +13,5 @@ module.exports = {
       enableInSFC: false,
     },
   },
+  publicPath: '/ecommerce-admin-template/',
 }
